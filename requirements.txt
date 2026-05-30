@@ -1,0 +1,4 @@
+# λ函数单元 + 同伦形变大模型系统 · 依赖清单
+# 无 PyTorch / TensorFlow / CUDA 依赖，极简运行环境
+
+numpy>=1.21
